@@ -1,1 +1,2 @@
 # National-Investment-Banking-Competition
+The National Investment Banking Competition (NIBC) is a prestigious annual case competition and conference that bridges the gap between academic learning and professional careers in investment banking. It was established around 2009 through a collaboration between students and industry professionals. Provides a realistic, hands-on experience in financial analysis, modelling, pitchbook creation, and strategic pitching—key skills for investment banking roles. Our team qualified as a finalist for round 2 at Vancouver, Canada.
